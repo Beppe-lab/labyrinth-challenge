@@ -30,7 +30,7 @@ sufficiente che anche uno solo dei tuoi tentativi risulti corretto.
 
 Tutto il materiale (file cifrato, documentazione tecnica, app QUELON,
 Regolamento, registro pubblico delle submission) è disponibile qui:
-**[link alla cartella "Materiale della sfida"]**
+**[link alla cartella "Materiale della sfida"](https://drive.proton.me/urls/X0AB82K4C8#H0VzRO4dNMEi)**
 
 ## Regolamento
 
