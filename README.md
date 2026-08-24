@@ -42,5 +42,5 @@ info.qcrypto@proton.me
 
 ---
 
-*[Versione italiana: vedi README.md](README.md)*
+*[Versione italiana: vedi README_IT.md](README_IT.md)*
 
