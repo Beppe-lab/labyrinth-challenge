@@ -29,7 +29,7 @@ enough for just one of your attempts to be correct.
 
 All materials (encrypted file, technical documentation, the QUELON app,
 the Regulation, the public submission log) are available here:
-**[link to the "Challenge Materials" folder]**
+**[link to the "Challenge Materials" folder](https://drive.proton.me/urls/B6P4XR18WC#5FzO5kq1qHob)**
 
 ## Regulation
 
