@@ -1,10 +1,8 @@
-# LABYRINTH© Challenge
+ # LABYRINTH© Challenge
 
 Official repository for submitting solution attempts for the
 **LABYRINTH© Challenge** — a public cryptanalysis challenge with a
 $30,000 prize.
-
-*[Versione italiana: vedi README_IT.md](README_IT.md)*
 
 ## How to participate
 
@@ -42,4 +40,7 @@ and prize payment, is available in the materials folder above.
 
 info.qcrypto@proton.me
 
- 
+---
+
+*[Versione italiana: vedi README.md](README.md)*
+
