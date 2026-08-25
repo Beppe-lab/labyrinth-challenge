@@ -1,48 +1,45 @@
- 
-# LABYRINTH© Challenge
+ # Sfida LABYRINTH©
 
-Official repository for submitting solution attempts to the
-**LABYRINTH© Challenge** — a public cryptanalysis challenge with a prize of
-USD 30,000.
+Repository ufficiale per la submission dei tentativi di soluzione della
+**LABYRINTH© Challenge** — sfida pubblica di crittanalisi con premio di
+USD 30.000.
 
-*[Italian version: see README_IT.md](README_IT.md)*
+*[English version: see README.md](README.md)*
 
-## How to participate
+## Come partecipare
 
-1. Register following the procedure described in the Rules (link below):
+1. Iscriviti seguendo la procedura descritta nel Regolamento (link sotto):
+   comunica via email il tuo nominativo e il tuo username GitHub,
+   attendi che l'Organizzatore ti assegni un Codice Challenge, poi versa
+   la quota usando quel codice come causale del bonifico.
+2. Fai un **fork** di questo repository.
+3. Aggiungi un file di testo con il tuo tentativo di soluzione (il presunto
+   testo in chiaro), nominato secondo il formato:
 
-Submit your name and GitHub username by email,
+   `[CodiceChallenge][numero progressivo].txt`
 
-wait for the Organizer to assign you a Challenge Code, then pay
-the fee using that code as the reason for the transfer.
-2. Fork this repository.
+   Esempio: `ABC123XYZ001.txt`, poi `ABC123XYZ002.txt` per un secondo
+   tentativo, e così via.
+4. Apri una **Pull Request** verso questo repository.
+5. Comunica via email a labyrinth-chall@proton.me data e ora della
+   pubblicazione — è quella data, annotata nel registro pubblico, a fare
+   fede ai fini della priorità temporale (non la marca del commit).
 
-3. Add a text file with your solution attempt (the presumed
-plaintext), named according to the format:
+Puoi inviare più tentativi in qualsiasi momento entro la scadenza. È
+sufficiente che anche uno solo dei tuoi tentativi risulti corretto.
 
-`[ChallengeCode][sequential number].txt`
+## Materiale della sfida
 
-Example: `ABC123XYZ001.txt`, then `ABC123XYZ002.txt` for a second
-attempt, and so on.
-4. Open a **Pull Request** to this repository.
-5. Email labyrinth-chall@proton.me the publication date and time — this date, noted in the public log, is the one that
-is used for time priority (not the commit stamp).
+Tutto il materiale (file cifrato, documentazione tecnica, app QUELON,
+Regolamento, registro pubblico delle submission) è disponibile qui:
+**[link alla cartella "Materiale della sfida"](https://drive.proton.me/urls/X0AB82K4C8#H0VzRO4dNMEi)**
 
-You can submit multiple attempts at any time within the deadline.
-It is sufficient that even just one of your attempts is successful.
+## Regolamento
 
-## Challenge Materials
+Il regolamento completo, comprese le regole di iscrizione, verifica finale
+e liquidazione del premio, è disponibile nella cartella del materiale
+qui sopra.
 
-All materials (encrypted file, technical documentation, QUELON app,
-Rules, public submission log) are available here:
-**[link to the "Challenge Materials" folder](https://drive.proton.me/urls/B6P4XR18WC#5FzO5kq1qHob)**
-
-## Rules
-
-The complete rules, including registration, final review,
-and prize payment rules, are available in the materials folder
-above.
-
-## Contact
+## Contatti
 
 labyrinth-chall@proton.me
