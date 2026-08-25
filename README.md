@@ -1,46 +1,48 @@
- # LABYRINTH© Challenge
+ 
+# LABYRINTH© Challenge
 
-Official repository for submitting solution attempts for the
-**LABYRINTH© Challenge** — a public cryptanalysis challenge with a
-$30,000 prize.
+Official repository for submitting solution attempts to the
+**LABYRINTH© Challenge** — a public cryptanalysis challenge with a prize of
+USD 30,000.
+
+*[Italian version: see README_IT.md](README_IT.md)*
 
 ## How to participate
 
-1. Register following the procedure described in the Regulation (link
-   below): choose a Challenge Code, communicate it by email, pay the
-   entry fee.
-2. **Fork** this repository.
-3. Add a text file with your attempted solution (the presumed
-   plaintext), named according to the following format:
+1. Register following the procedure described in the Rules (link below):
 
-   `[ChallengeCode][sequential number].txt`
+Submit your name and GitHub username by email,
 
-   Example: `ABC123XYZ001.txt`, then `ABC123XYZ002.txt` for a second
-   attempt, and so on.
+wait for the Organizer to assign you a Challenge Code, then pay
+the fee using that code as the reason for the transfer.
+2. Fork this repository.
+
+3. Add a text file with your solution attempt (the presumed
+plaintext), named according to the format:
+
+`[ChallengeCode][sequential number].txt`
+
+Example: `ABC123XYZ001.txt`, then `ABC123XYZ002.txt` for a second
+attempt, and so on.
 4. Open a **Pull Request** to this repository.
-5. Email info.qcrypto@proton.me with the date and time of publication —
-   it is that date, recorded in the public log, that determines
-   chronological priority (not the commit timestamp).
+5. Email labyrinth-chall@proton.me the publication date and time — this date, noted in the public log, is the one that
+is used for time priority (not the commit stamp).
 
-You may submit multiple attempts at any time before the deadline. It is
-enough for just one of your attempts to be correct.
+You can submit multiple attempts at any time within the deadline.
+It is sufficient that even just one of your attempts is successful.
 
-## Challenge materials
+## Challenge Materials
 
-All materials (encrypted file, technical documentation, the QUELON app,
-the Regulation, the public submission log) are available here:
+All materials (encrypted file, technical documentation, QUELON app,
+Rules, public submission log) are available here:
 **[link to the "Challenge Materials" folder](https://drive.proton.me/urls/B6P4XR18WC#5FzO5kq1qHob)**
 
-## Regulation
+## Rules
 
-The full regulation, including registration rules, final verification,
-and prize payment, is available in the materials folder above.
+The complete rules, including registration, final review,
+and prize payment rules, are available in the materials folder
+above.
 
 ## Contact
 
-info.qcrypto@proton.me
-
----
-
-*[Versione italiana: vedi README_IT.md](README_IT.md)*
-
+labyrinth-chall@proton.me
