@@ -1,5 +1,4 @@
- 
-# Sfida LABYRINTH©
+ # Sfida LABYRINTH©
 
 Repository ufficiale per la submission dei tentativi di soluzione della
 **LABYRINTH© Challenge** — sfida pubblica di crittanalisi con premio di
@@ -44,3 +43,4 @@ qui sopra.
 ## Contatti
 
 labyrinth-chall@proton.me
+
