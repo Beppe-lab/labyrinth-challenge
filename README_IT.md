@@ -2,7 +2,7 @@
 
 Repository ufficiale per la submission dei tentativi di soluzione della
 **LABYRINTH© Challenge** — sfida pubblica di crittanalisi con premio di
-USD 30.000.
+USD 20.000.
 
 *[English version: see README.md](README.md)*
 
